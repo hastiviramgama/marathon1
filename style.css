@@ -1,0 +1,208 @@
+body{
+    background-color: rgb(117, 10, 240);
+}
+.container{
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right:160px;
+}
+.top{
+    position:relative;
+    height:700px;
+    width:900px;
+}
+.doctorsimg{
+    height:700px;
+    width:900px;
+ position: relative;
+
+}
+.middle{
+    background-color:white;
+    position:relative;
+    height:660px;
+    width:900px;
+    top:-160px;
+    display: flex;
+}
+
+.centerpart{
+    color: white;
+justify-content: center;
+position:relative;
+top: -90px;
+text-align: center;
+}
+.medicaltextpart{
+    position: relative;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: rgb(42, 42, 196);
+    height: 120px;
+    width:600px;
+    left: 150px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size:60PX;
+    letter-spacing: 6PX;
+}
+.takecaretextpart{
+    background-color: lightblue;   
+font-size: 30PX;
+letter-spacing: 4PX;
+height:70px;
+width: 550px;
+padding: 10px;
+left:180px;
+position: relative;
+}
+.bottom{
+    position:absolute;
+    width:800px;
+    top:100px;
+    display: flex;
+    padding-left: 50px;
+padding-right: 50px;
+}
+
+.aboutpart{
+position: relative;
+top:400px;
+color: rgb(29, 64, 221);
+height:300px;
+width:400px;
+right:500px;
+}
+.about{
+    font-size:30px;
+}
+.us{
+font-size:40px;
+color: rgb(29, 64, 221);
+font-weight: bold;
+}
+.loremrightpara{
+    font-size:20px; 
+    color: rgb(29, 64, 221);  
+}
+.line{
+    border: 2px solid gray;
+}
+.left{
+    position: relative;
+
+}
+.covidtextpart{
+color: rgb(29, 64, 221);
+top:180px;
+position: relative;
+font-size: 20px;
+right:50px;
+
+}
+.covidtext{
+font-size:30px ;
+font-weight: bold;
+color: rgb(29, 64, 221);
+top:0px;
+position: relative;
+right:30px;
+display: inline;
+}
+.middlelogopart{
+ height:200px;
+ right:60px;
+ top:180px;
+ position: relative;
+}
+.bottomlogopart{
+    top:250px;
+    position: relative;
+display: flex;
+}
+.leftfooter{
+    color: rgb(29, 64, 221);
+    font-size: 25px;
+    position: relative;
+    left:-400px;
+   
+}
+.rightfooter{
+    right:300px;
+    display: inline;
+}
+.rightfooter1{
+    right:320px;
+    position: relative;
+    top:80px;
+
+}
+.rightfooter2{
+    right:255px;
+    position: relative;
+    top:134px;
+
+}
+.rightfooter3{
+    right:200px;
+    position: relative;
+    top: 27px;
+
+}
+
+.qrpart{
+    background-color: rgb(29, 64, 221);
+    height: 100px;
+    width:100px ;
+position: relative;
+top: -100px;
+padding-left: 20px;
+}
+.rightpart{
+ position: relative;
+ height: 400px;
+ width: 300px;
+ top:130px;
+ color: white;
+}
+.doctorswithbaby{
+height:200px;
+width:300px;
+left:-30px;
+position: relative;
+}
+.ourservicetext{
+    background-color: rgb(29, 64, 221);
+font-weight: bold;
+font-size: 30px;
+top: -40px;
+position: relative;
+border-top-left-radius:30px;
+text-align: center;
+width:350px;
+left:-50px;
+}
+.loremtextpart{
+background-color: lightblue;
+height:300px;
+width:280px;
+position: relative;
+left:-10px;
+top: -70px;
+direction:rtl;
+padding-right:30px;
+padding-top: 3px;
+}
+.loremheading{
+font-weight: bold;
+font-size: 25px;
+position:relative;
+}
+.lorempara{
+font-size:15px;
+position: relative;
+}
